@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/My_Portfolio/static/css/main.31940245.css",
-    "main.js": "/My_Portfolio/static/js/main.b0e76170.js",
-    "static/media/travel.png": "/My_Portfolio/static/media/travel.8db742a0db2114f7116a.png",
-    "static/media/fontawesome-webfont.svg?v=4.7.0": "/My_Portfolio/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
-    "static/media/hero.png": "/My_Portfolio/static/media/hero.e3ef74be66b8a37b4de8.png",
-    "static/media/me.jpeg": "/My_Portfolio/static/media/me.7c6d675aaa6bfa9df5c2.jpeg",
-    "static/media/fontawesome-webfont.eot": "/My_Portfolio/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
-    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/My_Portfolio/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
-    "static/media/spicial.webp": "/My_Portfolio/static/media/spicial.f96f1f7baafdfdb82b23.webp",
-    "static/media/youtube img2.jpg": "/My_Portfolio/static/media/youtube img2.ba35f45efe1b3950076c.jpg",
-    "static/media/My CV.pdf": "/My_Portfolio/static/media/My CV.e8a66612920b4aefb4bd.pdf",
-    "static/media/fontawesome-webfont.woff?v=4.7.0": "/My_Portfolio/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
-    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/My_Portfolio/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
-    "static/media/img crud.png": "/My_Portfolio/static/media/img crud.3c46ae66c211a23c8777.png",
-    "static/media/shope.png": "/My_Portfolio/static/media/shope.457bea4f142b5443dec4.png",
-    "index.html": "/My_Portfolio/index.html",
-    "main.31940245.css.map": "/My_Portfolio/static/css/main.31940245.css.map",
-    "main.b0e76170.js.map": "/My_Portfolio/static/js/main.b0e76170.js.map"
+    "main.css": "/My-Portfolio/static/css/main.ff4cf66e.css",
+    "main.js": "/My-Portfolio/static/js/main.8bbc00a5.js",
+    "static/media/travel.png": "/My-Portfolio/static/media/travel.8db742a0db2114f7116a.png",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/My-Portfolio/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/hero.png": "/My-Portfolio/static/media/hero.e3ef74be66b8a37b4de8.png",
+    "static/media/me.jpeg": "/My-Portfolio/static/media/me.7c6d675aaa6bfa9df5c2.jpeg",
+    "static/media/fontawesome-webfont.eot": "/My-Portfolio/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/My-Portfolio/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/spicial.webp": "/My-Portfolio/static/media/spicial.f96f1f7baafdfdb82b23.webp",
+    "static/media/youtube img2.jpg": "/My-Portfolio/static/media/youtube img2.ba35f45efe1b3950076c.jpg",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/My-Portfolio/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/My-Portfolio/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/CV.pdf": "/My-Portfolio/static/media/CV.b88c638e8cda473b1dba.pdf",
+    "static/media/img crud.png": "/My-Portfolio/static/media/img crud.3c46ae66c211a23c8777.png",
+    "static/media/shope.png": "/My-Portfolio/static/media/shope.457bea4f142b5443dec4.png",
+    "index.html": "/My-Portfolio/index.html",
+    "main.ff4cf66e.css.map": "/My-Portfolio/static/css/main.ff4cf66e.css.map",
+    "main.8bbc00a5.js.map": "/My-Portfolio/static/js/main.8bbc00a5.js.map"
   },
   "entrypoints": [
-    "static/css/main.31940245.css",
-    "static/js/main.b0e76170.js"
+    "static/css/main.ff4cf66e.css",
+    "static/js/main.8bbc00a5.js"
   ]
 }
