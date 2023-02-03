@@ -1,4 +1,5 @@
 import React from "react";
+import Fade from 'react-reveal/Fade';
 import "./portfolio.css";
 import IMG1 from "../../assets/hero.png";
 import IMG2 from "../../assets/img crud.png";
@@ -54,6 +55,7 @@ const data = [
 const Portfolio = () => {
   return (
     <>
+    <Fade right>
       <section id="portfolio">
         <h5>My Recent Work</h5>
         <h2>portfolio</h2>
@@ -79,6 +81,7 @@ const Portfolio = () => {
           ))}
         </div>
       </section>
+      </Fade>
     </>
   );
 };

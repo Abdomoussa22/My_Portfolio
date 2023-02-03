@@ -4,9 +4,11 @@ import ME from "../../assets/me.jpeg";
 import {FaAward} from 'react-icons/fa'
 import {FiUsers} from 'react-icons/fi'
 import {VscFolderLibrary} from 'react-icons/vsc'
+import Fade from 'react-reveal/Fade';
 const About = () => {
   return (
     <>
+      <Fade right>
       <section id="about">
         <h5>GetTo Know</h5>
         <h2>About Me</h2>
@@ -40,6 +42,7 @@ const About = () => {
           </div>
         </div>
       </section>
+      </Fade>
     </>
   );
 };

@@ -8,34 +8,7 @@ import Nav from "./componants/nav/nav";
 import Portfolio from "./componants/portfolio/portfolio";
 import Services from "./componants/services/services";
 import Testimonials from "./componants/testimonials/testimonials";
-import Scrollreveal from 'scrollreveal';
-import { useEffect } from "react";
-
 function App() {
-  useEffect(() => {
-    const sr = Scrollreveal({
-      origin: "top",
-      distance: "80px",
-      duration: 2000,
-      reset: true,
-    });
-    sr.reveal(
-      `
-      header,
-        #about,
-        #experience,
-        #services,
-        #portfolio,
-        #testimonials,
-        #contact,
-        footer
-        `,
-      {
-        opacity: 0,
-        interval: 300,
-      }
-    );
-  }, []);
   return <>
     <Header/>
     <Nav/>

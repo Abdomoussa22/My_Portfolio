@@ -1,4 +1,5 @@
 import React from 'react';
+import Fade from 'react-reveal/Fade';
 import './contact.css'
 import {MdOutlineMail} from 'react-icons/md'
 import {RiMessengerLine} from 'react-icons/ri'
@@ -15,6 +16,7 @@ const Contact = () => {
       };
     return (
      <>
+     <Fade right>
      <section id='contact'>
         <h5>Get In Touch</h5>
         <h2>Contact Me</h2>
@@ -49,6 +51,7 @@ const Contact = () => {
         </div>
        
      </section>
+     </Fade>
      </> 
     );
 }

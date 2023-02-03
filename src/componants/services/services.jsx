@@ -1,9 +1,11 @@
 import React from 'react';
 import './services.css'
 import {BiCheck} from 'react-icons/bi'
+import Fade from 'react-reveal/Fade';
 const Services = () => {
     return ( 
         <>
+        <Fade left>
         <section id='services'>
             <h5>What I Offer</h5>
             <h2>Services</h2>
@@ -98,6 +100,7 @@ const Services = () => {
                 {/* END CONTENT CREATION */}
             </div>
         </section>
+        </Fade>
         </>
      );
 }

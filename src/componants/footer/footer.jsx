@@ -1,4 +1,5 @@
 import React from 'react'
+import Fade from 'react-reveal/Fade';
 import './footer.css';
 import {FaFacebookF} from 'react-icons/fa'
 import {FiInstagram} from 'react-icons/fi'
@@ -6,6 +7,7 @@ import {FaTwitter} from 'react-icons/fa'
 const Footer = () => {
     return ( 
         <>
+        <Fade top big>
         <footer>
             <a href="#" className='footer-logo'>Abdel Hamid</a>
             <ul className='permalinks'>
@@ -26,6 +28,7 @@ const Footer = () => {
                 <small>&copy; Abdel Hamid Moussa. All rights reserved</small>
             </div>
          </footer>
+         </Fade>
         </>
      );
 }

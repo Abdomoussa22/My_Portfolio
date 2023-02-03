@@ -1,4 +1,5 @@
 import React from 'react'
+import Fade from 'react-reveal/Fade';
 import './testimonials.css'
 import IMAG1 from '../../assets/avatar1.jpg'
 import IMAG2 from '../../assets/avatar2.jpg'
@@ -40,6 +41,7 @@ const data = [
 const Testimonials = () => {
   return (
    <>
+   <Fade left>
    <section id='testimonials'>
     <h5>Review From Clients</h5>
     <h2>Testimonials</h2>
@@ -63,6 +65,7 @@ const Testimonials = () => {
      }
     </Swiper>
    </section>
+   </Fade>
    </>
   )
 }
