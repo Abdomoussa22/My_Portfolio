@@ -1,7 +1,7 @@
 import React from 'react'
 import './header.css'
 import Cta from './cta';
-import ME from '../../assets/me.jpeg'
+import ME from '../../assets/me.jpg'
 import HeaderSocials from './headersocials';
 import Fade from 'react-reveal/Fade';
 const Header = () => {

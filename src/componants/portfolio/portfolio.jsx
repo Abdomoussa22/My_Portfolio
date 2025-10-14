@@ -4,9 +4,9 @@ import "./portfolio.css";
 import IMG1 from "../../assets/hero.png";
 import IMG2 from "../../assets/img crud.png";
 import IMG3 from "../../assets/travel.png";
-import IMG4 from "../../assets/shope.png";
+import IMG4 from "../../assets/reben.png";
 import IMG5 from "../../assets/youtube img2.jpg";
-import IMG6 from "../../assets/spicial.webp";
+import IMG6 from "../../assets/admin.png";
 
 const data = [
   {
@@ -33,9 +33,9 @@ const data = [
   {
     id: 4,
     image: IMG4,
-    title: "Shop App",
-    github: "https://github.com/Abdomoussa22/Sohp_App.git",
-    demo: "https://lovely-semolina-f28b55.netlify.app",
+    title: "Petroleum Company Website",
+    github: "https://github.com/Abdomoussa22/Reben_website",
+    demo: "https://reben-website.vercel.app/",
   },
   {
     id: 5,
@@ -47,9 +47,9 @@ const data = [
   {
     id: 6,
     image: IMG6,
-    title: "Spacial design",
-    github:  "https://github.com/Abdomoussa22/our-project-for-me-by-html-css-js-.git",
-    demo: "https://abdomoussa22.github.io/our-project-for-me-by-html-css-js-/",
+    title: "Admin Dashboard",
+    github:  "https://github.com/Abdomoussa22/Admin-Dashboard.git",
+    demo: "https://admin-dashboard-psi-six-19.vercel.app/",
   },
 ];
 const Portfolio = () => {
